@@ -1,0 +1,33 @@
+SMAP
+selectCourses_jsp.java
+JSP
+*S JSP
+*F
++ 0 selectCourses.jsp
+Controller/selectCourses.jsp
++ 1 headerforallPanel.jsp
+Controller/../headerforallPanel.jsp
++ 2 footer.jsp
+Controller/../footer.jsp
+*L
+5,24:59
+29,7:84
+35,2:91
+1#1,38:93
+36#0,5:130
+40,2:135
+41:137,5
+42,2:142
+44,11:145
+54,14:156
+68,6:171
+73,2:177
+75,5:179,3
+80,2:194
+82,2:197
+83,8:199
+91,3:208
+93,2:211
+1#2,7:213
+94#0,58:219
+*E
